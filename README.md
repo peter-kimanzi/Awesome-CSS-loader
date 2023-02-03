@@ -4,5 +4,6 @@ Awesome CSS loader
 
 ## Technologies used
 
-* CSS
+* HTML
+*  CSS
 * HTML
