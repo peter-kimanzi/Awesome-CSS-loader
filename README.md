@@ -10,3 +10,5 @@ Awesome CSS loader
 ## Live Link
 
 https://peter-kimanzi.github.io/Awesome-CSS-loader/
+
+## Screenshot
