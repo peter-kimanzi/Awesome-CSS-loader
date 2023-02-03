@@ -6,4 +6,3 @@ Awesome CSS loader
 
 * HTML
 *  CSS
-* HTML
